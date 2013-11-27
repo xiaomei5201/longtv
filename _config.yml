@@ -5,9 +5,9 @@ permalink: /posts/:title.html
 exclude:
   - README.md
 
-name: Your Site Name
-host: yourdomain.com
-desc: Some description of your site.
+name: longtv
+host: longtv
+desc: longtv
 
 custom:
     category:
