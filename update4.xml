@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>  
+<info>  
+    <version>5.2.7</version>  
+    <url>http://master.dl.sourceforge.net/project/longtv/longtv5.2.7.apk</url>  
+    <description>
+========== 5.2.7 ==========
+1) 修复数据库更新后分类丢失的问题
+2) 软解画面4:3比例改为自适应模式，硬解因部分设备无法拿到视频尺寸,仍然保留4:3模式
+3) 修复铁通用户无法更新的问题
+4) 不用升级主程序也可以更新电视台列表了,在提示更新时选择不再提示更新后，
+   将只会自动数据库
+5) 修复一些其他的小问题，以及更新大量源
+========== 5.2.6 ==========
+1) 升级ffmpeg到最新版本
+2) 修复华为秘盒软解闪退的问题
+3) 修改后退键的行为，按一下为清场，如不需清场则显示退出
+4) 修正一些低概率闪退的问题
+
+</description>
+<dbversion>10.15</dbversion>
+<dburl>https://github.com/appledragon/longtv/raw/master/download/TVInfo.db</dburl>
+<dbdescription>修复港台源</dbdescription>
+<notice>修复大量源</notice>
+<forceupdate>0</forceupdate>
+</info>
