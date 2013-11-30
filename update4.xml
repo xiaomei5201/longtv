@@ -25,5 +25,5 @@
 <dburl>https://github.com/appledragon/longtv/raw/master/download/TVInfo.db</dburl>
 <dbdescription>修复港台源</dbdescription>
 <notice>修复大量源</notice>
-<forceupdate>1</forceupdate>
+<forceupdate>0</forceupdate>
 </info>
