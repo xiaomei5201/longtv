@@ -3,7 +3,7 @@
     <version>5.2.8.2</version>  
     <url>http://jaist.dl.sourceforge.net/project/longtv/longtv5.2.8.2.apk</url>  
     <description>
-========== 5.2.8 ==========
+========== 5.2.8.2 ==========
 1) 修复2.2设备的问题(求你更新设备吧)
 2) 修复其他一些小问题
 3) 修复一些源的解析
@@ -21,7 +21,7 @@
 4) 修正一些低概率闪退的问题
 
 </description>
-<dbversion>10.19</dbversion>
+<dbversion>10.20</dbversion>
 <dburl>https://github.com/appledragon/longtv/raw/master/download/TVInfo.db</dburl>
 <dbdescription>修复港台源</dbdescription>
 <notice>修复大量源</notice>
