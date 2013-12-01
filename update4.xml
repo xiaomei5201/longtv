@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>  
 <info>  
-    <version>5.2.8.2</version>  
-    <url>http://jaist.dl.sourceforge.net/project/longtv/longtv5.2.8.2.apk</url>  
+    <version>5.2.8.3</version>  
+    <url>http://jaist.dl.sourceforge.net/project/longtv/longtv5.2.8.3.apk</url>  
     <description>
+========== 5.2.8.3 ==========
+1) 增加某些源的解析
+2) 解决解码切换时EPG信息不正确的问题
 ========== 5.2.8.2 ==========
 1) 修复2.2设备的问题(求你更新设备吧)
 2) 修复其他一些小问题
