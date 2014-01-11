@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>  
 <info>  
-    <version>5.2.8.3</version>  
-    <url>http://jaist.dl.sourceforge.net/project/longtv/longtv5.2.8.3.apk</url>  
+    <version>5.3</version>  
+    <url>http://jaist.dl.sourceforge.net/project/longtv/longtv5.3.apk</url>  
     <description>
+========== 5.3 ==========
+1,提高软解稳定性
+2,增加字体大小调节功能
+3,修正其他一些问题
 ========== 5.2.8.3 ==========
 1) 增加某些源的解析
 2) 解决解码切换时EPG信息不正确的问题
