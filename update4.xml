@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>  
 <info>  
-    <version>5.3.2</version>  
-    <url>http://jaist.dl.sourceforge.net/project/longtv/longtv5.3.2.apk</url>
+    <version>5.3.3</version>  
+    <url>http://http://longtv.znds.com/longtv5.3.3.apk</url>
     <description>
+========== 5.3.3 ==========
+1) 紧急修复部分设备点击屏幕闪退的问题
+
 ========== 5.3.2 ==========
 1) 修复部分台无法播放的问题
 2) 修复部分台有几率声音丢失的问题
@@ -14,11 +17,6 @@
 2) 修复收藏夹不同步的问题
 3) 修复关闭自动更新后仍然更新的问题
 4) ui略微修改
-
-========== 5.3 ==========
-1,提高软解稳定性
-2,增加字体大小调节功能
-3,修正其他一些问题
 
 </description>
 <dbversion>11.07</dbversion>
