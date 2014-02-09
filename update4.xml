@@ -21,8 +21,8 @@
 3,修正其他一些问题
 
 </description>
-<dbversion>11.05</dbversion>
-<dburl>https://github.com/appledragon/longtv/raw/master/download/TVInfo.db</dburl>
+<dbversion>11.07</dbversion>
+<dburl>http://longtv.znds.com/TVInfo.db</dburl>
 <dbdescription>修复大量源</dbdescription>
 <notice>修复大量源</notice>
 <forceupdate>0</forceupdate>
