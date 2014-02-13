@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>  
 <info>  
-    <version>5.3.3</version>  
-    <url>http://longtv.znds.com/longtv5.3.3.apk</url>
+    <version>5.3.4</version>  
+    <url>http://longtv.znds.com/longtv5.3.4.apk</url>
     <description>
+========== 5.3.4 ==========
+1) 解决乐视源软解卡顿以及湖南地方源软解无法播放的问题
+
 ========== 5.3.3 ==========
 1) 紧急修复部分设备点击屏幕闪退的问题
 
@@ -19,7 +22,7 @@
 4) ui略微修改
 
 </description>
-<dbversion>11.14</dbversion>
+<dbversion>11.15</dbversion>
 <dburl>http://longtv.znds.com/TVInfo.db</dburl>
 <dbdescription>修复大量源</dbdescription>
 <notice>修复大量源</notice>
