@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>  
 <info>  
-    <version>5.3.4</version>  
-    <url>http://longtv.znds.com/longtv5.3.4.apk</url>
+    <version>5.3.5</version>  
+    <url>http://longtv.znds.com/longtv5.3.5.apk</url>
     <description>
+========== 5.3.5 ==========
+1) 解决部分设备软解音画不同步的问题
+
 ========== 5.3.4 ==========
 1) 解决乐视源软解卡顿以及湖南地方源软解无法播放的问题
 
