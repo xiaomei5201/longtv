@@ -25,7 +25,7 @@
 4) ui略微修改
 
 </description>
-<dbversion>11.18</dbversion>
+<dbversion>11.19</dbversion>
 <dburl>http://longtv.znds.com/TVInfo.db</dburl>
 <dbdescription>修复大量源</dbdescription>
 <notice>修复大量源</notice>
