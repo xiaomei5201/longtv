@@ -25,8 +25,8 @@
 4) ui略微修改
 
 </description>
-<dbversion>11.21</dbversion>
-<dburl>http://longtv.znds.com/TVInfo.db</dburl>
+<dbversion>11.22/dbversion>
+<dburl>https://github.com/appledragon/longtv/raw/master/download/TVInfo.db</dburl>
 <dbdescription>修复大量源</dbdescription>
 <notice>修复大量源</notice>
 <forceupdate>0</forceupdate>
