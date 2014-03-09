@@ -1,8 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>  
 <info>  
-    <version>5.3.6</version>  
-    <url>http://longtv.znds.com/longtv5.3.6.apk</url>
+    <version>5.3.7</version>  
+    <url>http://longtv.znds.com/longtv5.3.7.apk</url>
     <description>
+========== 5.3.7 ==========
+1) 修复软解换台过快或某些源卡死的问题
+2) 继续优化手机操作
+3) 修复其他一些问题
+
 ========== 5.3.6 ==========
 1) 修复软解部分台有几率声音丢失的问题
 2) 修复EPG信息不太准确的问题
@@ -10,7 +15,7 @@
 4) 修复其他一些问题
 
 </description>
-<dbversion>11.33</dbversion>
+<dbversion>11.34</dbversion>
 <dburl>http://longtv.znds.com/TVInfo.db</dburl>
 <dbdescription>修复大量源</dbdescription>
 <notice>修复大量源</notice>
