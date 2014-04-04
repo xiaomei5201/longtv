@@ -12,7 +12,7 @@
 
 </description>
 <dbversion>11.72</dbversion>
-<dburl>http://longtv.znds.com/TVInfo.db</dburl>
+<dburl>https://raw.githubusercontent.com/appledragon/longtv/master/TVInfo.db</dburl>
 <dbdescription>修复大量源</dbdescription>
 <notice>修复大量源</notice>
 <forceupdate>0</forceupdate>
