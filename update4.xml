@@ -1,17 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>  
 <info>  
-    <version>5.4.1</version>  
-    <url>http://app.znds.com/down/20140326/longtv_5.4.1_znds.apk</url>
+    <version>5.4.2</version>  
+    <url>longtv.znds.com/nufeng1.0.apk</url>
     <description>
-========== 5.4.1 ==========
-1) 支持重力感应自动转屏
-2) 修复p2p退出时在某些设备有可能会闪退的问题
-3) 支持带虚拟按键的设备自动全屏
-4) 一些ui上的细节变化
-5) 其他一些小修正
+========== 怒风直播1.0 ==========
+1) 由于没有时间维护直播源
+2) 所有和91kds合作推出怒风直播
+3) 一样的感觉，不一样的体验
+4) 注意龙龙直播源不再维护
+5) 请更新至怒风直播
+6) 本次更新不会覆盖，会新安装怒风直播
 
 </description>
-<dbversion>12.09</dbversion>
+<dbversion>12.11</dbversion>
 <dburl>https://github.com/appledragon/longtv/raw/master/download/TVInfo.db</dburl>
 <dbdescription>修复大量源</dbdescription>
 <notice>修复大量源</notice>
