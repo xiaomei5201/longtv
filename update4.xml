@@ -1,19 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>  
 <info>  
-    <version>5.4.2</version>  
+    <version>5.4.1</version>  
     <url>http://longtv.znds.com/nufeng1.0.apk</url>
     <description>
-========== 怒风直播1.0 ==========
-1) 由于没有时间维护直播源
-2) 所以和91kds合作推出怒风直播
-3) 一样的感觉，不一样的体验
-4) 注意龙龙直播源不再维护
-5) 请更新至怒风直播
-6) 本次更新不会覆盖，会新安装怒风直播
 
 </description>
 <dbversion>12.18</dbversion>
 <dburl>https://github.com/appledragon/longtv/raw/master/download/TVInfo.db</dburl>
+<dburl2>https://github.com/appledragon/longtv/raw/master/download/TVInfo.zip</dburl2>
 <dbdescription>修复大量源</dbdescription>
 <notice>修复大量源</notice>
 <showad>0</showad>
