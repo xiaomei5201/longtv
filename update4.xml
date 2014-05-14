@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>  
 <info>  
-    <version>5.4.1</version>  
+    <version>5.4.2</version>  
     <url>http://longtv.znds.com/nufeng1.0.apk</url>
     <description>
-
+1) 修复了一些bug
+2) 由于包签名不一样，请先卸载以前的版本，重新安装
 </description>
-<dbversion>12.18</dbversion>
+<dbversion>12.19</dbversion>
 <dburl>https://github.com/appledragon/longtv/raw/master/download/TVInfo.db</dburl>
 <dburl2>https://github.com/appledragon/longtv/raw/master/download/TVInfo.zip</dburl2>
 <dbdescription>修复大量源</dbdescription>
