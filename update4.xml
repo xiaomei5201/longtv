@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>  
 <info>  
     <version>5.4.2</version>  
-    <url>http://longtv.znds.com/nufeng1.0.apk</url>
+    <url>http://git.oschina.net/longlongtv/longtv/raw/master/longtv5.7.2.apk</url>
     <description>
 1) 修复了一些bug
 2) 由于包签名不一样，请先卸载以前的版本，重新安装
