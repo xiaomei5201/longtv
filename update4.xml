@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>  
 <info>  
-    <version>5.4.2</version>  
-    <url>http://longtv.znds.com/longtv5.7.2.apk</url>
+    <version>5.4.3</version>  
+    <url>http://app.znds.com/down/20140521/longlongtv_5.4.3.apk</url>
     <description>
-1) 修复了一些bug
-2) 由于包签名不一样，请先卸载以前的版本，重新安装
-3) 可以到 http://pan.baidu.com/s/1mgDNXVE 下载
+1) 小修正
 </description>
 <dbversion>12.32</dbversion>
 <dburl>https://github.com/appledragon/longtv/raw/master/download/TVInfo.db</dburl>
