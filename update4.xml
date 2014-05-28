@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>  
 <info>  
     <version>5.4.3</version>  
-    <url>http://app.znds.com/down/20140521/longlongtv_5.4.3.apk</url>
+    <url>http://app.znds.com/down/20140528/longTV_x_5.4.3.apk</url>
     <description>
-1) 小修正
+由于签名问题不能覆盖安装，敬请谅解。更新完成后，请使用新版本龙龙直播(5.4.3版)
+1. 修复已知BUG
+2. 优化播放效果
 </description>
 <dbversion>12.32</dbversion>
 <dburl>https://github.com/appledragon/longtv/raw/master/download/TVInfo.db</dburl>
