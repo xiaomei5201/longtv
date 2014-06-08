@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>  
+<info>  
+    <version>1.1</version>  
+    <url>http://app.znds.com/down/20140528/longTV_x_5.4.3.apk</url>
+    <description>
+1) 增加回播
+2) 更新解码库
+</description>
+<dbversion>12.32</dbversion>
+<dburl>https://github.com/appledragon/longtv/raw/master/download/TVInfo.db</dburl>
+<dburl2>https://github.com/appledragon/longtv/raw/master/download/TVInfo.zip</dburl2>
+<dbdescription>修复大量源</dbdescription>
+<notice>修复大量源</notice>
+<showad>0</showad>
+<forceupdate>0</forceupdate>
+<crackme>79CF7129E844930389A6F23763D2BEFD</crackme>
+</info>
