@@ -6,7 +6,7 @@
 1) 增加回播
 2) 更新解码库
 </description>
-<dbversion>12.33</dbversion>
+<dbversion>12.34</dbversion>
 <dburl>https://github.com/appledragon/longtv/raw/master/download/TVInfo.db</dburl>
 <dburl2>https://github.com/appledragon/longtv/raw/master/download/TVInfo2.zip</dburl2>
 <dbdescription>修复大量源</dbdescription>
