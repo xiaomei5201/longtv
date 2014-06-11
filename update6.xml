@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>  
 <info>  
-    <version>1.2</version>  
+    <version>1.3</version>  
     <url>http://longtv.znds.com/nufeng1.2.apk</url>
     <description>
 1) 修正数据库无法更新的问题
@@ -13,6 +13,6 @@
 <showad>0</showad>
 <forceupdate>0</forceupdate>
 <crackme>D9850BED23F6DF2E1961746488E2524E</crackme>
-<paserversion>1</paserversion>
+<paserversion>2</paserversion>
 <paserurl>https://github.com/appledragon/longtv/raw/master/download/libgpoint.so</paserurl>
 </info>
