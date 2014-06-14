@@ -5,7 +5,7 @@
     <description>
 1) 修正数据库无法更新的问题
 </description>
-<dbversion>12.38</dbversion>
+<dbversion>12.39</dbversion>
 <dburl>https://github.com/appledragon/longtv/raw/master/download/TVInfo.db</dburl>
 <dburl2>https://github.com/appledragon/longtv/raw/master/download/TVInfo2.zip</dburl2>
 <dbdescription>修复大量源</dbdescription>
