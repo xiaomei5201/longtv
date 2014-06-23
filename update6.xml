@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>  
 <info>  
-    <version>1.3</version>  
-    <url>http://longtv.znds.com/nufeng1.2.apk</url>
+    <version>1.4</version>  
+    <url>https://github.com/appledragon/longtv/raw/master/download/nufeng1.4.apk</url>
     <description>
 1) 修正数据库无法更新的问题
 </description>
-<dbversion>12.51</dbversion>
+<dbversion>12.52</dbversion>
 <dburl>https://github.com/appledragon/longtv/raw/master/download/TVInfo.db</dburl>
 <dburl2>https://github.com/appledragon/longtv/raw/master/download/TVInfo2.zip</dburl2>
 <dbdescription>修复大量源</dbdescription>
