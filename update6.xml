@@ -3,7 +3,7 @@
     <version>1.4</version>  
     <url>https://github.com/appledragon/longtv/raw/master/download/nufeng1.4.apk</url>
     <description>
-1) 修正数据库无法更新的问题
+1) 修正部分源的解析
 </description>
 <dbversion>12.52</dbversion>
 <dburl>https://github.com/appledragon/longtv/raw/master/download/TVInfo.db</dburl>
